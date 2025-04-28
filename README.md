@@ -76,3 +76,5 @@ Puedes aprender más sobre la API de GitHub aquí: [https://docs.github.com/en/r
 * Esta aplicación se conecta directamente a la API de GitHub sin utilizar ninguna librería externa para la gestión de la red o el manejo de JSON.
 * La salida muestra un resumen básico de los eventos recientes. Puedes personalizar la forma en que se muestra la información según tus preferencias.
 * Es importante manejar posibles errores de red y respuestas inesperadas de la API para proporcionar una mejor experiencia al usuario.
+
+https://roadmap.sh/projects/github-user-activity
